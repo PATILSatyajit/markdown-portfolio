@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+	:sparkles:
+  *Thfirst repo*
+_first repo_
+
+**1st repo**
+__1st repo__
+
+_ this is **1st** repo_
